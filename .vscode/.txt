@@ -1,0 +1,13 @@
+PS C:\Users\gabri\Downloads\js-curso-2-desafio_1 AGORA> git log
+commit e3f21a80716b160235d5018158a07b264a710fe2 (HEAD -> main, origin/main)
+Author: Crysthian Lima <crysthianlima.silva@gmail.com>
+Date:   Fri Jul 3 14:16:42 2026 -0300
+
+    novo log inicial
+
+commit cef337097af9482c4668863801a383dd7056cd3b
+Author: Crysthian Lima <crysthianlima.silva@gmail.com>
+Date:   Fri Jul 3 13:40:40 2026 -0300
+
+    desafio git
+PS C:\Users\gabri\Downloads\js-curso-2-desafio_1 AGORA> 
